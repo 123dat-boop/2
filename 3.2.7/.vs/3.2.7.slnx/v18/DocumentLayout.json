@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\2\\3.2.7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A74F932-0C1D-4B49-B6C4-B69BAE4E018E}|3.2.7\\3.2.7.vcxproj|C:\\Users\\Admin\\2\\3.2.7\\3.2.7\\3.2.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A74F932-0C1D-4B49-B6C4-B69BAE4E018E}|3.2.7\\3.2.7.vcxproj|solutionrelative:3.2.7\\3.2.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.2.7.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\2\\3.2.7\\3.2.7\\3.2.7.cpp",
+              "RelativeDocumentMoniker": "3.2.7\\3.2.7.cpp",
+              "ToolTip": "C:\\Users\\Admin\\2\\3.2.7\\3.2.7\\3.2.7.cpp",
+              "RelativeToolTip": "3.2.7\\3.2.7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-15T07:55:39.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
